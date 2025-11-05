@@ -11,6 +11,8 @@
 A simple and interactive tool to explore how pathfinding algorithms work. Built with React and Parcel, it lets you visualize popular algorithms like Dijkstra, A*, BFS, and DFS on a responsive, customizable grid.
 You can add walls, drag start/end nodes, and see how the algorithm finds the shortest path in real-time.
 
+<video src="https://github.com/user-attachments/assets/f689ac91-8f29-4a8a-b737-1102cea86b64" controls width="100%"></video>
+
 *Click. Drag. Visualize. Done.*
 
 ---
